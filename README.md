@@ -8,6 +8,3 @@ Change Log 1.0
 
 
 TO Do
--Title
--boarder 0
--can add twitter facebook
