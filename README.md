@@ -7,4 +7,11 @@ Change Log 1.0
 -Added Notice
 
 
-TO Do
+Change Log 4.0
+-new look
+-title
+-logo
+-footer
+
+
+
