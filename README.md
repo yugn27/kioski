@@ -34,4 +34,15 @@ All notable changes to this project will be documented in this file.
 - Footer logo Add.
 
 
+## [4.0.0] - 2018-08-14
+###  Android App Added
+- Logo Add.
+- Splash Add.
+- Webview.
+- Upload Controller. 
+
+
+
+
+
 
