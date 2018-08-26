@@ -1,0 +1,42 @@
+Software 
+Raspbian
+
+Hardware
+Raspberry Pi 3 Model B
+Raspberry Pi Enclosure Case (Clear)
+32GB Micro Sd Card
+SD card Adapter
+2500 mA Micro USB Power Supply
+High Quality HDMI Cable
+HDMI TO VGA
+Heat-sink for Raspberry Pi 
+LED DISPLAY
+
+
+https://walterhutskyjr.com/raspberry-pi-3-google-wall-calendar-project/
+
+
+sudo nano /home/pi/.config/lxsession/LXDE-pi/autostart
+
+@xset s off
+@xset -dmps
+@xset s noblank
+@chromium-browser --kiosk --incognito http://localhost
+
+Install Unclutter to remove the mouse cursor from the screen.
+sudo apt-get install unclutter
+
+Apache server
+sudo apt-get install apache2 -y
+
+
+
+crontab -e
+
+
+
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=8298
+chromium-browser --kiosk http://www.google.com
+
+
