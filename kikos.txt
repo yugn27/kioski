@@ -1,3 +1,6 @@
+
+Password qwerty12
+
 Software 
 Raspbian
 
