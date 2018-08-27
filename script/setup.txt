@@ -59,7 +59,7 @@ echo "Done"
 
 
 
-echo "Done."
+echo "Server running at http://localhost"
 echo
 echo "Settings take effect on next boot."
 
