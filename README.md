@@ -1,5 +1,18 @@
 # Kioski
 
+Software 
+Raspbian
+
+Hardware
+Raspberry Pi 3 Model B
+Raspberry Pi Enclosure Case (Clear)
+32GB Micro Sd Card
+2500 mA Micro USB Power Supply
+Vga Cable
+HDMI TO VGA
+Heat-sink for Raspberry Pi 
+LED DISPLAY
+
 # Changelog
 All notable changes to this project will be documented in this file.
 
