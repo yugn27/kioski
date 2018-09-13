@@ -53,9 +53,7 @@ echo "Installation done"
 
 echo "downloading local files"
 wget https://raw.githubusercontent.com/yugn27/kioski/gh-pages/index.html
-
-
-
+sudo mv index.html /var/www/html/
 
 
 echo "Server running at http://localhost"
