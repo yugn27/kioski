@@ -27,36 +27,38 @@ echo "EXISTING INSTALLATION, IF ANY, WILL BE OVERWRITTEN."
 echo "Starting installation..."
 echo "Updating package index files"
 sudo apt-get update
+sudo apt-get dist-upgrade
 echo "Done"
 
 
-
+#Apache
 echo "Downloading prerequisites"
-wget https://yugn27.github.io/kioski/setup.sh
-echo "Done"
+
+sudo apt-get install -y apache2
+sudo echo "ServerName localhost" >> /etc/apache2/httpd.conf
+echo "Apache2 Done"
 
 
+#PHP
+sudo apt-get install -y php5 libapache2-mod-php5 php5-intl php5-mcrypt php5-curl php5-gd php5-sqlite
+echo "Php Done"
 
-echo "RGB display driver software and examples"
-echo "Done"
+#MySQL
+sudo apt-get install -y mysql-server mysql-client php5-mysql
+echo "MySql Done"
 
 
-echo "Configuring system..."
-echo "Done"
+#Unclutter
+sudo apt-get install unclutter
+echo "unclutter Done"
 
+
+echo "Installation done"
 
 
 echo "Server running at http://localhost"
-echo
-echo "Settings take effect on next boot."
 
-echo
-echo -n "REBOOT NOW? [y/N] "
-read
-if [[ ! "$REPLY" =~ ^(yes|y|Y)$ ]]; then
-	echo "Exiting without reboot."
-	exit 0
-fi
+echo "Settings take effect on next boot."
 echo "Reboot started..."
 reboot
 exit 0
