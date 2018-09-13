@@ -51,6 +51,13 @@ echo "Done"
 echo "Installation done"
 
 
+echo "downloading local files"
+wget https://raw.githubusercontent.com/yugn27/kioski/gh-pages/index.html
+
+
+
+
+
 echo "Server running at http://localhost"
 
 echo "Settings take effect on next boot."
