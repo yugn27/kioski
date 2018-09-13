@@ -1,9 +1,6 @@
 #!/bin/bash
 
 
-GITUSER=https://github.com/yugn27
-REPO=yugn27
-
 if [ $(id -u) -ne 0 ]; then
 	echo "Installer must be run as root."
 	echo "Try 'sudo bash $0'"
@@ -13,10 +10,6 @@ fi
 clear
 
 echo "Welcome to Kioski Installer"
-echo "Checking dependency"
-echo "Checked"
-
-
 echo "Steps include:"
 echo "Update package index files (apt-get update)"
 echo "Install prerequisite software"
@@ -24,13 +17,7 @@ echo "Install RGB display driver software and examples"
 echo "Configure boot options"
 echo "Run time ~15 minutes. Some options require reboot."
 echo "EXISTING INSTALLATION, IF ANY, WILL BE OVERWRITTEN."
-echo
-echo -n "CONTINUE? [y/N] "
-read
-if [[ ! "$REPLY" =~ ^(yes|y|Y)$ ]]; then
-	echo "Canceled."
-	exit 0
-fi
+
 
 
 
