@@ -9,7 +9,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/Projects.jpeg" alt="AirPrintLogo" width="200"></a>
+  <img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/Projects.jpeg"  width="200"></a>
   <br>
  Kioski-A Smart Notice Board
   <br>
