@@ -16,7 +16,7 @@
 </h1>
 
 
-# GUI
+# Screen UI
 <br>
 <img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/Screenshot%20(138).png" alt="AirPrintLogo" width="100%">
 
@@ -38,6 +38,13 @@ Mysql
 - HDMI TO VGA
 
 
+# Andorid App
+<h2 align="center">
+<p float="left">
+  <img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/AndroidAppSplashScreen.jpeg" width="25%" />
+  <img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/AndroidAppLoginScreen.jpeg" width="25%" /> 
+</p>
+</h2>
 
 
 
