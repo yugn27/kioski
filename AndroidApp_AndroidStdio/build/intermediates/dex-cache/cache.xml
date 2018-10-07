@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\1f7fd4253cdeb9573ab509afb8475fe9d139eb8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_adc0e5a1d448125dc27bf8f60c9d432d0f328e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\be6cbcd605beb3d93e2183fc04d4abb4d61da0dc\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_33e455f7b3d39233bb0f746f33f96181a77c0545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\699f396f6f4a5105f84bcfef6b67ea56292ea925\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_f961d74171235254ec37f2b43992b87bb03147ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\be81736fd05ac9ff4b5dd92373439f7bf69543f3\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1e05c572e5979915aefb625dbce0628e1dad2a4e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yashn\Desktop\Kikos app\kioskiapp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcc638c0595fd2031d07ab425b53be04fcac83a5">
+        <dex dex="C:\Users\yashn\Desktop\Kikos app\kioskiapp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f8853aceb70ca192fea137f15e532684856784e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\1ed5bc95cd1d3703a6abc04d5b1c89b32f075e80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_94a3ac92b115f19236dd14eb1fcc58f26de3a2d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\libs\AppRate_1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="418c7690cc2efd2d1de8327f400beeeebac7ecfb">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\AppRate_1.1_cb57765bad0ba77d1d90f7f62ca770017c013767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\14d2862c73dafaa1e37bace38553cdc0bf7a1369\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_75ce53b222f1423152d5e85ebebed1e3f9add00a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\6de50d8d2902d4938245ac132b859a47be2bead9\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_666ac7f5263defd513f750622dab90ceef4da49b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\c84831dc387ccc288795d5641d4e0d72caf6533d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_a5cb11e85c559b235dd106ee61598a344f1d704c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\6de50d8d2902d4938245ac132b859a47be2bead9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_83b702b909a6620a1de42b50a0d8a73c329996c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\260d5b4bf273d0aa0b723a9c3e911579e7370be2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_267d5ac00e5613c691943fe03538f490b2593e85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\b16eef449950f35b83aaa1c692a753e3918a484c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_26bed76b020ee87c4f17ead345b332fcf02cfef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\a6c4e8f0a4969910c0c464342bc6d71ed9f9e661\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_bcf1a59731a5bec2e73cb1d9dab16cd2d4e0eb5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\be81736fd05ac9ff4b5dd92373439f7bf69543f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_f52552b2359044a904e9d536f5a4d5006f366e2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\6345e989cf5e9ec40baaf43f82293352044a1e36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_6f5237f0cd3fcfa15f9237650c6266b0c289dd8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_d73c7faab275c5c8253eadc86efcc45983bc8ae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\cdd794f1b93a8931f91ee1994a3196a495cf8c2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_5fceba08aa0c8fdbcbaff322aecdd0cee3551108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\423db15d2911d0b86dd226d2763ae965bfab02d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_ccd20c18e798317a797879923c42abe602910425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\104573d829e2c40e384e3e3ed8ec123925e2d444\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_5bf30f7fe0b4ae78f623dccc1beba1281377e1d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\e504a6b9079bd78eb93cc822c5790bd793eb78c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_3f2cc07dd5b61a6be553e3f8ea8eab094356e76a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\104573d829e2c40e384e3e3ed8ec123925e2d444\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_0c4dff7b71ef465bbab489b581ac4a1c6fdac61f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\1e370de104c9bf45331bc61e95fb0e1457edb97b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_9385211ac71706408fc760eba1d3f29f0c02dedb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\be6cbcd605beb3d93e2183fc04d4abb4d61da0dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_cd2c2ed85ceb8253372aba0cc316d0a3c05b399a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yashn\Desktop\Kikos app\kioskiapp\app\libs\AppRate_1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="418c7690cc2efd2d1de8327f400beeeebac7ecfb">
+        <dex dex="C:\Users\yashn\Desktop\Kikos app\kioskiapp\app\build\intermediates\transforms\dex\debug\folders\1000\2\AppRate_1.1_6e6fb9829ce2b1610e0049ebe1b8e1455842cd97\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\38b0d351bc71be6c9691001734e0a2ed6c0c8e7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_cc23a8bee3011878fe3f374c3abde788e911327c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\e504a6b9079bd78eb93cc822c5790bd793eb78c3\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_7abe54a75d7b58520ad7c375f0fed4c3133c385e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\cc9cec991df93ec4e71ae263b80d21706de210fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_daf6df8e37fef8e63feeb036865588c7bba8e05a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yashn\Desktop\Kikos app\kioskiapp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\yashn\Desktop\Kikos app\kioskiapp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1a8b3a3e75314a2c5c01a7ffd20e5772a153cac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\d3b8dc9301f49bd408959643f4f668ad868e1ff0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_f817e5ce452489cf19c4db95977f4e9c6d3f3bd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\7d53102ed706dd02a81d3f6fb587668119830a2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_ce9fd82dec8418e062f581edce77c1459e4c01b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\fbdf2035896c68aad7d720308a4e78dc0595804d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_f20a147113babaf3a0b47b155150abc38129dab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\93e9f5e2ed3c91c59f273ce6b63040d9dd6b3d5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9ff5f71ff6ed9612bc05ff376dd9ca27c7da977">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_d5025da29e737f514d4a2852d26de9fb5ba518c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yashn\.android\build-cache\1c19aef9b72591d162d89cd80a5032210c5fae82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\yashn\Desktop\s1coeptk app working\Offline\template\app\build\intermediates\pre-dexed\debug\classes_2f5daeb38157ee346a3ba6f247400a677f5ef7ef.jar" />
+    </item>
+
+</items>
