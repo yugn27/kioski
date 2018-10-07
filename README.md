@@ -12,10 +12,10 @@
 <img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/Screenshot%20(138).png" alt="AirPrintLogo" width="100%">
 
 
-# Front End
-HTML5
-CSS3
-Wordpress
+### Front End
+-HTML5
+-CSS3
+-Wordpress
 # Front End
 Mysql
 
