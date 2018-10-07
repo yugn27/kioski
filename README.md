@@ -1,10 +1,11 @@
+<h1 align="center">
 # Kioski-A Smart Notice Board
 
-<h1 align="center">
+
   <br>
   <a href=""><img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/Projects.jpeg" alt="AirPrintLogo" width="200"></a>
   <br>
-  AirPrint
+  Kioski
   <br>
 </h1>
 
