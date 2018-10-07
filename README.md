@@ -1,6 +1,15 @@
+
+<h1 align="center">
+  <a href="">
+<img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/WhatsApp%20Image%202018-08-17%20at%209.43.47%20PM%20(2).jpeg" width="80%" height="400"></a>
+  
+</h1>
+
+
+
 <h1 align="center">
   <br>
-  <a href=""><img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/Projects.jpeg" alt="AirPrintLogo" width="200"></a>
+  <img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/Projects.jpeg" alt="AirPrintLogo" width="200"></a>
   <br>
  Kioski-A Smart Notice Board
   <br>
