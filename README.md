@@ -25,7 +25,7 @@
 - HTML5
 - CSS3
 - Wordpress
-# Front End
+# Back End
 Mysql
 
 
