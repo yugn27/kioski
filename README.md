@@ -10,7 +10,7 @@
 <h1 align="center">
   <br>
    <img src="https://github.com/yugn27/kioski/blob/gh-pages/Images/AirDisplay.png?raw=true"  width="100%"></a>
-  <img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/MyProject.jpeg"  width="100%"></a>
+  
   <br>
  Kioski-A Smart Notice Board
   <br>
