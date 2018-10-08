@@ -16,10 +16,6 @@
 </h1>
 
 
-# Screen UI
-<br>
-<img src="https://github.com/yugn27/kioski/blob/gh-pages/Images/AirDisplay.png?raw=true" alt="AirPrintLogo" width="100%">
-
 
 ### Front End
 - HTML5
