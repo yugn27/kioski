@@ -9,7 +9,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/MyProject.jpeg"  width="100%"></a>
+  <img src="https://github.com/yugn27/kioski/blob/gh-pages/Images/AirDisplay.png?raw=true"  width="100%"></a>
   <br>
  Kioski-A Smart Notice Board
   <br>
@@ -18,7 +18,7 @@
 
 # Screen UI
 <br>
-<img src="https://github.com/Niraj-Ranjan/Kioski/blob/gh-pages/projectScreenshot/Screenshot%20(138).png" alt="AirPrintLogo" width="100%">
+<img src="https://github.com/yugn27/kioski/blob/gh-pages/Images/AirDisplay.png?raw=true" alt="AirPrintLogo" width="100%">
 
 
 ### Front End
